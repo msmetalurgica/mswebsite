@@ -1,0 +1,79 @@
+.Agrupar_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1500px;
+  height: 1000px;
+  z-index: 10;
+}
+.METALÚRGICA {
+  background-color: rgb(128, 129, 131);
+  position: absolute;
+  left: 381px;
+  top: 828px;
+  width: 958px;
+  height: 109px;
+  z-index: 9;
+}
+.Retângulo_Arredondado_4 {
+  background-image: -moz-linear-gradient( 90deg, rgb(128,129,131) 0%, rgb(104,105,107) 48%, rgb(79,80,82) 99%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(128,129,131) 0%, rgb(104,105,107) 48%, rgb(79,80,82) 99%);
+  background-image: -ms-linear-gradient( 90deg, rgb(128,129,131) 0%, rgb(104,105,107) 48%, rgb(79,80,82) 99%);
+  position: absolute;
+  left: 636px;
+  top: 66px;
+  width: 261px;
+  height: 707px;
+  z-index: 8;
+}
+.Camada_2 {
+  background-image: url("Camada 2.png");
+  position: absolute;
+  left: 843px;
+  top: 206px;
+  width: 355px;
+  height: 565px;
+  z-index: 7;
+}
+.Forma_1 {
+  background-color: rgb(128, 129, 131);
+  position: absolute;
+  left: 864px;
+  top: 72px;
+  width: 497px;
+  height: 699px;
+  z-index: 6;
+}
+.Retângulo_Arredondado_2 {
+  background-image: -moz-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(165,31,35) 57%, rgb(91,36,33) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(165,31,35) 57%, rgb(91,36,33) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(165,31,35) 57%, rgb(91,36,33) 100%);
+  position: absolute;
+  left: 447px;
+  top: 67px;
+  width: 332px;
+  height: 625px;
+  z-index: 5;
+}
+.Retângulo_Arredondado_1 {
+  background-image: -moz-linear-gradient( 90deg, rgb(56,56,55) 0%, rgb(92,93,93) 56%, rgb(128,129,131) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(56,56,55) 0%, rgb(92,93,93) 56%, rgb(128,129,131) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(56,56,55) 0%, rgb(92,93,93) 56%, rgb(128,129,131) 100%);
+  position: absolute;
+  left: 244px;
+  top: 62px;
+  width: 327px;
+  height: 629px;
+  z-index: 4;
+}
+.Retângulo_Arredondado_3 {
+  background-image: -moz-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(58,19,17) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(58,19,17) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(238,25,36) 0%, rgb(58,19,17) 100%);
+  position: absolute;
+  left: 169px;
+  top: 117px;
+  width: 243px;
+  height: 820px;
+  z-index: 3;
+}

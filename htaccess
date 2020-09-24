@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^myapp/(.*) http://msmetalurgica.com.br:21038/$1 [P]
