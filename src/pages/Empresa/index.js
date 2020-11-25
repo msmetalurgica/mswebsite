@@ -15,7 +15,7 @@ const imgs = {
     {
       src: EMP1,
       thumbnail: EMP1,
-      thumbnailWidth: 400,
+      thumbnailWidth: 600,
       thumbnailHeight: 400,
       caption: "Empresa"
     },
