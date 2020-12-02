@@ -17,11 +17,7 @@ import MAQ6 from '../../assets/maq/6.jpeg';
 import MAQ7 from '../../assets/maq/7.jpeg';
 import MAQ8 from '../../assets/maq/8.jpeg';
 import MAQ9 from '../../assets/maq/9.jpeg';
-import MAQ10 from '../../assets/maq/10.jpeg';
-import MAQ11 from '../../assets/maq/11.jpeg';
-import MAQ12 from '../../assets/maq/12.jpeg';
-import MAQ13 from '../../assets/maq/13.jpeg';
-import MAQ14 from '../../assets/maq/14.jpeg';
+
 
 const imgs = {
   images: [
@@ -39,13 +35,7 @@ const imgs = {
       thumbnailHeight: 183,
       caption: 'Torno Convencional Nardini ND 500',
     },
-    {
-      src: MAQ10,
-      thumbnail: MAQ10,
-      thumbnailWidth: 257,
-      thumbnailHeight: 320,
-      caption: 'Torno Convencional TMA 320',
-    },
+   
     {
       src: MAQ4,
       thumbnail: MAQ4,
@@ -94,36 +84,7 @@ const imgs = {
       thumbnailWidth: 320,
       thumbnailHeight: 213,
       caption: 'Torno Convencional Nardini ND 500',
-    },
-    {
-      src: MAQ11,
-      thumbnail: MAQ11,
-      thumbnailWidth: 257,
-      thumbnailHeight: 320,
-      caption: 'Prensa “80 toneladas”',
-    },
-    {
-      src: MAQ12,
-      thumbnail: MAQ12,
-      thumbnailWidth: 200,
-      thumbnailHeight: 320,
-      caption: 'Torno CNC Romi Centur 30D 2007',
-    },
-    {
-      src: MAQ13,
-      thumbnail: MAQ13,
-      thumbnailWidth: 257,
-      thumbnailHeight: 320,
-      caption: 'MS Metalúrgica máquinas em geral',
-    },
-    {
-      src: MAQ14,
-      thumbnail: MAQ14,
-      thumbnailWidth: 257,
-      thumbnailHeight: 320,
-      caption: 'MS Metalúrgica',
-    },
-  ],
+       
 };
 
 const Servicos = () => (
