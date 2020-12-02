@@ -84,6 +84,7 @@ const imgs = {
       thumbnailWidth: 320,
       thumbnailHeight: 213,
       caption: 'Torno Convencional Nardini ND 500',
+    },
        
 };
 
