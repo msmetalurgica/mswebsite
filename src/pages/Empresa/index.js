@@ -54,7 +54,7 @@ const Empresa = () => (
               qualidade.
           </p>
           <p>
-              A OPÇÃO É SUA, A QUALIDADE É NOSSA!!!
+                                A OPÇÃO É SUA, A QUALIDADE É NOSSA!!!
           </p>
           </div>
           <div>
