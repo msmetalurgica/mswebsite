@@ -119,6 +119,13 @@ const Servicos = () => (
                   <br />
                   <span>250 mm de diâmetro</span>
                 </li>
+  <li>
+                  ✓ Torno CNC ROMI Cosmos 10U
+                  <br />
+                  <span>500 mm de barramento</span>
+                  <br />
+                  <span>200 mm de diâmetro</span>
+                </li>
                 <li>
                   ✓ Torno CNC Romi ECN 40
                   <br />
@@ -141,7 +148,7 @@ const Servicos = () => (
               <ul>
                 <li>✓ Policorte</li>
                 <li>✓ Serra de Fita Mecânica</li>
-                <li>✓ Serra de Fita Automática”</li>
+                <li>✓ Serra de Fita Automática</li>
               </ul>
             </div>
           </DivUL>
