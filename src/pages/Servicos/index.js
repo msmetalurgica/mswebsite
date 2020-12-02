@@ -85,7 +85,7 @@ const imgs = {
       thumbnailHeight: 213,
       caption: 'Torno Convencional Nardini ND 500',
     },
-  ],
+  ], 
 };
 const Servicos = () => (
   <>
