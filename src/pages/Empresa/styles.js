@@ -23,13 +23,13 @@ export const Content = styled.div`
 
   div {
     width: auto;
-    max-width: 800px;
-    min-width: 600px;
-    min-height: 600px;
+    max-width: 700px;
+    min-width: 500px;
+    min-height: 500px;
 
     img {
-      min-width: 500px;
-      min-height: 500px;
+      min-width: 400px;
+      min-height: 400px;
     }
   }
 
