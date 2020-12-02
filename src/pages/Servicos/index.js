@@ -26,14 +26,14 @@ const imgs = {
       thumbnail: MAQ1,
       thumbnailWidth: 220,
       thumbnailHeight: 174,
-      caption: 'Plaina chaveteira FAIR (700mm de curso)',
+      caption: '-',
     },
     {
       src: MAQ2,
       thumbnail: MAQ2,
       thumbnailWidth: 320,
       thumbnailHeight: 183,
-      caption: 'Torno Convencional Nardini ND 500',
+      caption: '-',
     },
    
     {
@@ -41,49 +41,49 @@ const imgs = {
       thumbnail: MAQ4,
       thumbnailWidth: 320,
       thumbnailHeight: 213,
-      caption: 'Torno CNC Romi Centur 30D',
+      caption: '-',
     },
     {
       src: MAQ5,
       thumbnail: MAQ5,
       thumbnailWidth: 271,
       thumbnailHeight: 320,
-      caption: 'Frezadora Ferramenteira ROCCO',
+      caption: '-',
     },
     {
       src: MAQ6,
       thumbnail: MAQ6,
       thumbnailWidth: 320,
       thumbnailHeight: 213,
-      caption: 'Torno CNC Romi Centur 30D',
+      caption: '-',
     },
     {
       src: MAQ7,
       thumbnail: MAQ7,
       thumbnailWidth: 320,
       thumbnailHeight: 213,
-      caption: 'Torno Convencional Nardini ND 500',
+      caption: '-',
     },
     {
       src: MAQ8,
       thumbnail: MAQ8,
       thumbnailWidth: 257,
       thumbnailHeight: 320,
-      caption: 'Torno Convencional TMA 320',
+      caption: '-',
     },
     {
       src: MAQ9,
       thumbnail: MAQ9,
       thumbnailWidth: 257,
       thumbnailHeight: 320,
-      caption: 'Serra de Fita',
+      caption: '-',
     },
     {
       src: MAQ3,
       thumbnail: MAQ3,
       thumbnailWidth: 320,
       thumbnailHeight: 213,
-      caption: 'Torno Convencional Nardini ND 500',
+      caption: '-',
     },
   ], 
 };
@@ -99,16 +99,16 @@ const Servicos = () => (
             <div>
               <ul>
                 <li>
-                  ✓ Torno Convencional Nardini ND 500
+                  ✓ Torno Convencional Romi I30
                   <br />
                   <span>1500 mm de barramento</span>
                   <br />
-                  <span>500 mm de diâmetro</span>
+                  <span>350 mm de diâmetro</span>
                 </li>
                 <li>
-                  ✓ Torno Convencional TMA 320
+                  ✓ Torno Convencional IMOR
                   <br />
-                  <span>2500 mm de barramento</span>
+                  <span>1500 mm de barramento</span>
                   <br />
                   <span>750 mm de diâmetro</span>
                 </li>
@@ -120,29 +120,28 @@ const Servicos = () => (
                   <span>250 mm de diâmetro</span>
                 </li>
                 <li>
-                  ✓ Torno CNC Romi Centur 30D 2007
+                  ✓ Torno CNC Romi ECN 40
                   <br />
-                  <span>Contra ponto pneumática</span>
+                  
+                  <span>1500 mm de barramento</span>
                   <br />
-                  <span>1000 mm de barramento</span>
-                  <br />
-                  <span>250 mm de diâmetro</span>
+                  <span>550 mm de diâmetro</span>
                 </li>
               </ul>
             </div>
             <div>
               <ul>
-                <li>✓ Frezadora Ferramenteira ROCCO</li>
+                <li>✓ Centro Usinagem ROMI Polares(500mm x 400mm de Mesa)</li>
                 <li>✓ Plaina chaveteira FAIR (700mm de curso)</li>
-                <li>✓ Furadeira</li>
+                <li>✓ Furadeira Convencional KM21</li>
                 <li>✓ Solda MIG</li>
               </ul>
             </div>
             <div>
               <ul>
                 <li>✓ Policorte</li>
-                <li>✓ Serra de Fita</li>
-                <li>✓ Prensa “80 toneladas”</li>
+                <li>✓ Serra de Fita Mecânica</li>
+                <li>✓ Serra de Fita Automática”</li>
               </ul>
             </div>
           </DivUL>
