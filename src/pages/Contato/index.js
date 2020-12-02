@@ -86,6 +86,13 @@ const Contato = () => {
                   </div>
                 </li>
                 <li>
+                  &nbsp;Telefone Fixo
+                  <div>
+                    <FontAwesomeIcon icon={faPhoneSquareAlt} size="2x" />
+                    &nbsp;&nbsp;(19) 3480-0024
+                  </div>
+                </li>
+                <li>
                   &nbsp;Vendas
                   <div>
                     <FontAwesomeIcon icon={faWhatsappSquare} size="2x" />
@@ -100,31 +107,21 @@ const Contato = () => {
                   </div>
                 </li>
                 <li>
-                  &nbsp;Representante Comercial
+                  &nbsp;Diretor
                   <div>
                     <FontAwesomeIcon icon={faCheckSquare} size="2x" />
                     &nbsp;&nbsp;Rodolfo Moises
                   </div>
                 </li>
-                <li>
-                  &nbsp;Revenda autorizada
-                  <br />
-                  &nbsp;Região de Ribeirão Preto
-                  <div>
-                    <img src={ENG} alt="" />
-                    &nbsp;&nbsp;JB Peças para Implementos Agrícolas
-                    <br />
-                    &nbsp;&nbsp;(19) 9 8181 2899
-                  </div>
-                </li>
+               
               </ul>
             </div>
             <div>
               <h2>LOCALIZAÇÃO</h2>
               <Map />
-              <p>Avenida Governador Mário Covas, 306</p>
-              <p>Bairro dos Prados</p>
-              <p>Itapira - São Paulo</p>
+              <p>Rua: Antonio Cavalaro, 137</p>
+              <p>Bairro Jardim Paraiso</p>
+              <p>Itapira - São Paulo - CEP: 13973-474</p>
             </div>
           </Content>
         </Container>
