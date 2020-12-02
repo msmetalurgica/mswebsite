@@ -28,8 +28,8 @@ export const Content = styled.div`
     min-height: 300px;
 
     img {
-      min-width: 300px;
-      min-height: 300px;
+      min-width: 500px;
+      min-height: 500px;
     }
   }
 
