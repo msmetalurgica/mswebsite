@@ -134,6 +134,12 @@ const Servicos = () => (
                   <br />
                   <span>550 mm de diâmetro</span>
                 </li>
+                <li>
+                  ✓ Torno Revolver Polimac
+                  <br />                  
+                  <span>(Com alimentador de Barras)</span>
+                 
+                </li>
               </ul>
             </div>
             <div>
