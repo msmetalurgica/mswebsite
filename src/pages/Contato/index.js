@@ -32,7 +32,7 @@ const schema = Yup.object().shape({
   message: Yup.string().required('O campo mensagem é obrigatório.'),
 });
 
-const Contato = () => { 
+const Contato = () => {
   function handleSubmit(data, { resetForm }) {
     const { name, email, phone, subject, message } = data;
 
@@ -107,7 +107,15 @@ const Contato = () => {
                   </div>
                 </li>
                 <li>
-                 
+                  &nbsp;Revenda autorizada
+                  <br />
+                  &nbsp;Região de Ribeirão Preto
+                  <div>
+                    <img src={ENG} alt="" />
+                    &nbsp;&nbsp;JB Peças para Implementos Agrícolas
+                    <br />
+                    &nbsp;&nbsp;(19) 9 8181 2899
+                  </div>
                 </li>
               </ul>
             </div>
