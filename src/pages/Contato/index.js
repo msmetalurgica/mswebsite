@@ -89,7 +89,7 @@ const Contato = () => {
                   &nbsp;Vendas
                   <div>
                     <FontAwesomeIcon icon={faWhatsappSquare} size="2x" />
-                    &nbsp;&nbsp;(19) 9 9443 5753
+                    &nbsp;&nbsp;(19) 9 9443 
                   </div>
                 </li>
                 <li>
