@@ -78,6 +78,13 @@ const Contato = () => {
             <div>
               <h2>CONTATO</h2>
               <ul>
+               <li>
+                  &nbsp;Telefone Fixo
+                  <div>
+                    <FontAwesomeIcon icon={faPhoneSquareAlt} size="2x" />
+                    &nbsp;&nbsp;(19) 3480-0024
+                  </div>
+                </li>
                 <li>
                   &nbsp;Compras
                   <div>
@@ -100,7 +107,7 @@ const Contato = () => {
                   </div>
                 </li>
                 <li>
-                  &nbsp;Representante Comercial
+                  &nbsp;Diretor
                   <div>
                     <FontAwesomeIcon icon={faCheckSquare} size="2x" />
                     &nbsp;&nbsp;Rodolfo Moises
