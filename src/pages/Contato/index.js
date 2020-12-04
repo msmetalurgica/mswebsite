@@ -106,17 +106,7 @@ const Contato = () => {
                     &nbsp;&nbsp;Rodolfo Moises
                   </div>
                 </li>
-                <li>
-                  &nbsp;Revenda autorizada
-                  <br />
-                  &nbsp;Região de Ribeirão Preto
-                  <div>
-                    <img src={ENG} alt="" />
-                    &nbsp;&nbsp;JB Peças para Implementos Agrícolas
-                    <br />
-                    &nbsp;&nbsp;(19) 9 8181 2899
-                  </div>
-                </li>
+               
               </ul>
             </div>
             <div>
