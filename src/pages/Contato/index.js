@@ -100,7 +100,7 @@ const Contato = () => {
                   </div>
                 </li>
                 <li>
-                  &nbsp;Representante Comercial
+                  &nbsp;Diretor
                   <div>
                     <FontAwesomeIcon icon={faCheckSquare} size="2x" />
                     &nbsp;&nbsp;Rodolfo Moises
