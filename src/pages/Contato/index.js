@@ -119,7 +119,7 @@ const Contato = () => {
             <div>
               <h2>LOCALIZAÇÃO</h2>
               <Map />
-              <p>Rua:Antonio Cavalaro, Nr. 137 306</p>
+              <p>Rua:Antonio Cavalaro, Nr. 137</p>
               <p>Bairro Jardim Paraiso</p>
               <p>Itapira - São Paulo, CEP: 13973-474</p>
             </div>
