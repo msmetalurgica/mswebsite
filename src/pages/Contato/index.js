@@ -32,7 +32,7 @@ const schema = Yup.object().shape({
   message: Yup.string().required('O campo mensagem é obrigatório.'),
 });
 
-const Contato = () => {
+const Contato = () => { 
   function handleSubmit(data, { resetForm }) {
     const { name, email, phone, subject, message } = data;
 
