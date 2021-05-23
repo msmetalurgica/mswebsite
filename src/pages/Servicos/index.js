@@ -155,6 +155,7 @@ const Servicos = () => (
             <div>
               <ul>
                 <li>✓ Centro Usinagem ROMI Polares(500mm x 400mm de Mesa)</li>
+                <li>✓ Centro Usinagem Romi (550mmx350mm)</li>
                 <li>✓ Plaina chaveteira FAIR (700mm de curso)</li>
                 <li>✓ Furadeira Convencional KM21</li>
                 <li>✓ Solda MIG</li>
