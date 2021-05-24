@@ -135,7 +135,7 @@ const Servicos = () => (
                   <span>550 mm de diâmetro</span>
                 </li>     
                 <li>
-                  ✓ Torno CNC Index GU 800 40
+                  ✓ Torno CNC Index GU 800
                   <br />                  
                   <span>1500 mm de barramento</span>
                   <br />
