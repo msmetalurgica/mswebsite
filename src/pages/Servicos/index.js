@@ -133,17 +133,14 @@ const Servicos = () => (
                   <span>1500 mm de barramento</span>
                   <br />
                   <span>550 mm de diâmetro</span>
-                </li>
-     
+                </li>     
                 <li>
                   ✓ Torno CNC Index GU 800 40
-                  <br />
-                  
+                  <br />                  
                   <span>1500 mm de barramento</span>
                   <br />
                   <span>500 mm de diâmetro</span>
-                </li>
-  
+                </li>  
                 <li>
                   ✓ Torno Revolver Polimac
                   <br />                  
