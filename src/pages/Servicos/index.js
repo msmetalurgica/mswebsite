@@ -17,6 +17,10 @@ import MAQ6 from '../../assets/maq/6.jpeg';
 import MAQ7 from '../../assets/maq/7.jpeg';
 import MAQ8 from '../../assets/maq/8.jpeg';
 import MAQ9 from '../../assets/maq/9.jpeg';
+import MAQ9 from '../../assets/maq/16.jpeg';
+import MAQ9 from '../../assets/maq/17.jpeg';
+import MAQ9 from '../../assets/maq/18.jpeg';
+
 
 
 const imgs = {
@@ -81,6 +85,27 @@ const imgs = {
     {
       src: MAQ3,
       thumbnail: MAQ3,
+      thumbnailWidth: 320,
+      thumbnailHeight: 213,
+      caption: '-',
+    },
+       {
+      src: MAQ16,
+      thumbnail: MAQ16,
+      thumbnailWidth: 320,
+      thumbnailHeight: 213,
+      caption: '-',
+    },
+       {
+      src: MAQ17,
+      thumbnail: MAQ17,
+      thumbnailWidth: 320,
+      thumbnailHeight: 213,
+      caption: '-',
+    },
+       {
+      src: MAQ18,
+      thumbnail: MAQ18,
       thumbnailWidth: 320,
       thumbnailHeight: 213,
       caption: '-',
