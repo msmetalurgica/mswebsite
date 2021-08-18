@@ -16,10 +16,10 @@ import MAQ5 from '../../assets/maq/5.jpeg';
 import MAQ6 from '../../assets/maq/6.jpeg';
 import MAQ7 from '../../assets/maq/7.jpeg';
 import MAQ8 from '../../assets/maq/8.jpeg';
-import MAQ9 from '../../assets/maq/9.jpeg';
-import MAQ9 from '../../assets/maq/16.jpeg';
-import MAQ9 from '../../assets/maq/17.jpeg';
-import MAQ9 from '../../assets/maq/18.jpeg';
+import MAQ16 from '../../assets/maq/9.jpeg';
+import MAQ17 from '../../assets/maq/16.jpeg';
+import MAQ19 from '../../assets/maq/17.jpeg';
+
 
 
 
