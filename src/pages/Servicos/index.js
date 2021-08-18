@@ -156,6 +156,7 @@ const Servicos = () => (
                 <li>✓ Plaina chaveteira FAIR (700mm de curso)</li>
                 <li>✓ Furadeira Convencional KM21</li>
                 <li>✓ Solda MIG</li>
+                <li>✓ Mandrilhadora</li>
               </ul>
             </div>
             <div>
